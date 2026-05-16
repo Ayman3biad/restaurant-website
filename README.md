@@ -42,8 +42,7 @@ The website allows customers to:
 <div align="center">
 
 ### Home Page
-![Home](screenshots/home.png)
-
+![Home](Screenshots/Screenshot 2025-05-23 150959.png)
 ### About Priska
 ![About](screenshots/about.png)
 
