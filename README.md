@@ -42,18 +42,19 @@ The website allows customers to:
 <div align="center">
 
 ### Home Page
-![Home](Screenshots/Screenshot 2025-05-23 150959.png)
+![Home](Screenshots/Screenshot%202025-05-23%20150959.png)
+
 ### About Priska
-![About](screenshots/about.png)
+![About](Screenshots/Screenshot%202025-05-23%20151023.png)
 
 ### Menu
-![Menu](screenshots/menu.png)
+![Menu](Screenshots/Screenshot%202025-05-23%20151044.png)
 
 ### Photo Gallery
-![Gallery](screenshots/gallery.png)
+![Gallery](Screenshots/Screenshot%202025-05-23%20151059.png)
 
 ### Reviews & Contact
-![Reviews](screenshots/reviews.png)
+![Reviews](Screenshots/Screenshot%202025-05-23%20151133.png)
 
 </div>
 
@@ -100,7 +101,7 @@ priska_cafe/
 ├── js/
 │   └── main.js         # JavaScript logic
 ├── images/             # Images and icons
-└── screenshots/        # Website preview screenshots
+└── Screenshots/        # Website preview screenshots
 ```
 
 <br/>
@@ -111,7 +112,7 @@ priska_cafe/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/priska-cafe.git
+git clone https://github.com/AymanSblad/restaurant-website.git
 ```
 
 2. Open the main file:
@@ -134,4 +135,6 @@ Made with ☕ & ❤️ to deliver the best experience for Priska Cafe customers
 <sub>© 2025 Priska Cafe — All rights reserved</sub>
 
 </div>
+
+
 
